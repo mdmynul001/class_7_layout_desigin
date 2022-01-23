@@ -1,0 +1,60 @@
+.header{
+	height: 100px;
+	background-color: brown;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: gold;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: goldenrod;
+	width: 40%;
+	float: right;
+}
+
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 150px;
+	width: 33.33%;
+	float: left;
+}
+.aqua{
+	background-color: aqua;
+}
+.aquamarine{
+	background-color: aquamarine;
+}
+.darkmagenta{
+	background-color: darkmagenta;
+}
+.footer{
+	min-height: 100px;
+	background-color:darkorange ;
+}
+
+.span_test1{
+	color: blue;
+	font-weight: bold;
+}
+
+.span_test2{
+	color: darkolivegreen;
+	font-weight: bold;
+}
+
+.saving table, th, td {
+	border: 1px solid black;
+}
+.text_area_test{
+	height: 100px;
+	width: 200px;
+}
+
